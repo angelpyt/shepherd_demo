@@ -21,13 +21,16 @@
 
 
 
-// Now let's add some more to our first step
-// add two buttons, one to progress to the next
-// step and one to exit the tour
+// Let's add a step with classes
+// Classes change theme
+// Attach the step to an element
 
-	// let's give our buttons some classes
-	// make one button a primary button
-	// and one button a secondary button
+
+
+// Lets create another step.
+// Try adding 2 buttons.
+// make one button a primary button
+// and one button a secondary button
 
 
 
